@@ -14,7 +14,7 @@ Ao instanciar um herói, o sistema processa automaticamente o tipo de ataque bas
 - **Mago** ataca usando **magia**.
 - **Guerreiro** ataca usando **espada**.
 - **Artista Marcial** ataca usando **punhos e chutes**.
-- - **Maga** ataca usando **golpe básico**.
+- **Maga** ataca usando **golpe básico**.
 
 A lógica utiliza uma estrutura de decisão eficiente que mapeia o tipo de classe para o ataque correspondente, exibindo a mensagem: *"o {tipo} atacou usando {ataque}"*.
 
