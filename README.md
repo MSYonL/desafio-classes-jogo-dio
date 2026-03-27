@@ -3,7 +3,22 @@
 <p align="center">
   <img src="./img/demo-ataque.gif" alt="Demonstração do Jogo em Funcionamento" width="600px">
 </p>
+
 Este projeto foi desenvolvido como parte do curso de Lógica de Programação da **DIO (Digital Innovation One)**. O objetivo foi aplicar conceitos fundamentais de Programação Orientada a Objetos (POO) utilizando JavaScript.
+
+---
+
+## 📝 O que o código faz?
+O programa simula a criação de heróis de diferentes classes (Guerreiro, Mago, Artista Marcial, Maga). 
+Ao instanciar um herói, o sistema processa automaticamente o tipo de ataque baseado na sua classe:
+- **Mago** ataca usando **magia**.
+- **Guerreiro** ataca usando **espada**.
+- **Artista Marcial** ataca usando **punhos e chutes**.
+- - **Maga** ataca usando **golpe básico**.
+
+A lógica utiliza uma estrutura de decisão eficiente que mapeia o tipo de classe para o ataque correspondente, exibindo a mensagem: *"o {tipo} atacou usando {ataque}"*.
+
+---
 
 ## 🚀 Tecnologias Utilizadas
 - **JavaScript (ES6+)**
@@ -22,3 +37,8 @@ Este projeto foi desenvolvido como parte do curso de Lógica de Programação da
 3. No terminal, execute:
    ```bash
    node index.js
+   ``` 
+---
+
+## 👤 Autor:
+ **Mauricio Jose Ribas (MSYonL)**
